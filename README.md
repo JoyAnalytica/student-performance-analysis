@@ -47,3 +47,53 @@ Users can dynamically filter the dashboard using:
 
 Internet Access
 Extra Classes
+
+ 📊 Dashboard 2: Performance Impact Analysis
+
+<img width="1477" height="818" alt="Screenshot 2026-05-04 110147" src="https://github.com/user-attachments/assets/834103dd-f42d-443f-8088-ea8818cb27b0" />
+
+
+🔹 Purpose
+
+This dashboard focuses on factors affecting student performance such as attendance, internet access, study hours, and gender differences.
+
+📈 Key Metrics
+✅ Attendance Impact → 2.58
+
+Indicates attendance has a positive influence on academic performance.
+
+🌐 Internet Impact → 0.60
+
+Shows internet access contributes moderately to performance improvement.
+
+📖 Extra Classes Impact → 0.13
+
+Extra classes have a smaller but positive effect on scores.
+
+📊 Average Overall Score → 63.83
+
+Average performance score across all students.
+
+⚖ Gender Score Gap → 0.006
+
+Very small performance gap between male and female students.
+
+⏰ Average Study Hours → 5.47 Hours
+
+Average daily study time of students.
+
+📋 Student Data Table
+
+The dashboard also includes a detailed student-level dataset with:
+
+Student ID
+Gender
+Extra Classes
+Internet Access
+Attendance Percentage
+Study Hours Per Day
+Midterm Score
+Final Exam Score
+Overall Score
+Grade
+
